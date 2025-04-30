@@ -1,7 +1,7 @@
 # Trabalho-8-Valdir
 # Nome: Paola Beatriz Gonçalves Ribeiro
 # RA: 2039403
-# Curso: 1°C ADS
+# Curso: 1°C ADS Noturno
 # UNIMAR (Universidade de Marilia)
 # Cenário: Sistema de Gerenciamento de Clínica Médica 
 
