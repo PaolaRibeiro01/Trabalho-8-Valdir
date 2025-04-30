@@ -80,7 +80,7 @@ de gerenciar as consultas.
 1. O médico acessa a aba "Prontuários";
 2. O sistema exibe os prontuários de seus pacientes;
 3. O médico seleciona um prontuário;
-4. O médico atualiza o prontuário (Caso a consulta já foi realizada, ele pode colocar uma "verificação naquele prontuário").
+4. O médico atualiza o prontuário (Caso a consulta já foi realizada, ele pode colocar uma "verificação" naquele prontuário).
    
 **Fluxos alternativos (exceção):**
 1. O médico não esta cadastrado;
