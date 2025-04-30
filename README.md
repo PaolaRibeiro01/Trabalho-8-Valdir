@@ -21,7 +21,7 @@ prontuários dos pacientes.
 * **Administrador:** Usuário que gerencia o cadastro de médicos e pacientes, além
 de gerenciar as consultas.
 
-# Lista dos 6 casos de uso:
+# Lista dos casos de uso:
 * Cadastrar pacientes;
 * Cadastrar médicos;
 * Agendar consultas;
